@@ -1,0 +1,7 @@
+:root{
+    --color-primary:black ;
+    --color-secondary:rgb(200, 200, 200) ;
+    --color-contrast:rgb(255, 255, 255);
+    --color-dark:black;
+    --color-light:white;
+}
